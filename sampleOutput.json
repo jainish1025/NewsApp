@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Handelsblatt",
+            "title": "Firmenhülle GFJ ESG findet in London neues Kaufobjekt",
+            "description": "Vor kurzem hatte die Unternehmenshülle noch die Übernahme des Münchner Start-ups Tado abgeblasen. Mit einer Firma für Gebäudetechnik soll der Börsengang jetzt klappen.",
+            "url": "https://www.handelsblatt.com/technik/it-internet/spac-firmenhuelle-gfj-esg-findet-in-london-neues-kaufobjekt/28715762.html",
+            "urlToImage": "https://www.handelsblatt.com/images/frankfurter-boerse/28715790/2-format2003.jpg",
+            "publishedAt": "2022-09-29T15:25:23+00:00",
+            "content": "Frankfurter BörseWenn die vereinbarte Übernahme zustande kommt, schlüpft Learnd in den Börsenmantel von GFJ und wird damit an der Frankfurter Börse gelistet.\r\n(Foto: dpa)\r\nMünchen Die börsennotierte … [+772 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "Spac: Firmenhülle GFJ ESG findet in London neues Kaufobjekt",
+            "description": "Vor kurzem hatte die Unternehmenshülle noch die Übernahme des Münchner Start-ups Tado abgeblasen. Mit einer Firma für Gebäudetechnik soll der Börsengang jetzt klappen.",
+            "url": "https://www.wiwo.de/technologie/digitale-welt/spac-firmenhuelle-gfj-esg-findet-in-london-neues-kaufobjekt/28715954.html",
+            "urlToImage": "https://www.wiwo.de/images/frankfurter-boerse/28715790/2-format11240.jpg",
+            "publishedAt": "2022-09-29T15:25:23+00:00",
+            "content": "Für Nachrichtenseiten wie WirtschaftsWoche Online sind Anzeigen eine wichtige Einnahmequelle. Mit den Werbeerlösen können wir die Arbeit unserer Redaktion bezahlen und Qualitätsartikel kostenfrei ver… [+173 chars]"
+        }
+    ]
+}
